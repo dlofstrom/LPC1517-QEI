@@ -40,6 +40,44 @@ void UART0_IRQHandler(void)
 
 
 
+//QEI
+#define LPC_QEI ((LPC_QEI_T*) LPC_QEI_BASE)
+
+//QEI block structure
+typedef struct {				//QEI Structure
+	__O  uint32_t  CON;			//Control register
+	__I  uint32_t  STAT;		//Encoder status register
+	__IO uint32_t  CONF;		//Configuration register
+	__I  uint32_t  POS;			//Position register
+	__IO uint32_t  MAXPOS;		//Maximum position register
+	__IO uint32_t  CMPOS0;		//position compare register 0
+	__IO uint32_t  CMPOS1;		//position compare register 1
+	__IO uint32_t  CMPOS2;		//position compare register 2
+	__I  uint32_t  INXCNT;		//Index count register
+	__IO uint32_t  INXCMP0;		//Index compare register 0
+	__IO uint32_t  LOAD;		//Velocity timer reload register
+	__I  uint32_t  TIME;		//Velocity timer register
+	__I  uint32_t  VEL;			//Velocity counter register
+	__I  uint32_t  CAP;			//Velocity capture register
+	__IO uint32_t  VELCOMP;		//Velocity compare register
+	__IO uint32_t  FILTERPHA;	//Digital filter register on input phase A (QEI_A)
+	__IO uint32_t  FILTERPHB;	//Digital filter register on input phase B (QEI_B)
+	__IO uint32_t  FILTERINX;	//Digital filter register on input index (QEI_IDX)
+	__IO uint32_t  WINDOW;		//Index acceptance window register
+	__IO uint32_t  INXCMP1;		//Index compare register 1
+	__IO uint32_t  INXCMP2;		//Index compare register 2
+	__I  uint32_t  RESERVED0[0x3E1];//933 gap
+	__O  uint32_t  IEC;			//Interrupt enable clear register
+	__O  uint32_t  IES;			//Interrupt enable set register
+	__I  uint32_t  INTSTAT;		//Interrupt status register
+	__I  uint32_t  IE;			//Interrupt enable register
+	__O  uint32_t  CLR;			//Interrupt status clear register
+	__O  uint32_t  SET;			//Interrupt status set register
+} LPC_QEI_T;
+
+
+
+
 int main(void) {
 
 #if defined (__USE_LPCOPEN)
@@ -60,8 +98,8 @@ int main(void) {
     Chip_GPIO_Init(LPC_GPIO);
 
     //Uart pins
-	Chip_IOCON_PinMuxSet(LPC_IOCON, 0, 0, (IOCON_FUNC0 | IOCON_MODE_INACT | IOCON_DIGMODE_EN));
-	Chip_IOCON_PinMuxSet(LPC_IOCON, 0, 1, (IOCON_FUNC0 | IOCON_MODE_INACT | IOCON_DIGMODE_EN));
+	Chip_IOCON_PinMuxSet(LPC_IOCON, 0, 15, (IOCON_FUNC0 | IOCON_MODE_INACT | IOCON_DIGMODE_EN));
+	Chip_IOCON_PinMuxSet(LPC_IOCON, 0, 14, (IOCON_FUNC0 | IOCON_MODE_INACT | IOCON_DIGMODE_EN));
 	Chip_SWM_Init();
 	Chip_SWM_DisableFixedPin(SWM_FIXED_ADC1_8); //Disable fixed pin on 23 for TX
 	Chip_SWM_MovablePortPinAssign(SWM_UART0_TXD_O, 0, 15); //PINASSIGN0 bit 7:0 PIO0_0
@@ -87,6 +125,8 @@ int main(void) {
 	//NVIC_SetPriority(UART0_IRQn, 1);
 	NVIC_EnableIRQ(UART0_IRQn);
 
+
+	//Write Uart string
 	Chip_UART_SendBlocking(LPC_USART0, inst1, sizeof(inst1) - 1);
 
 
