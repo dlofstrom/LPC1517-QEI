@@ -1,0 +1,11 @@
+#LPCXpresso
+.metadata
+.settings/
+Debug/src/
+
+
+#Eagle
+*.s#?
+*.b#?
+*.l#?
+eagle.epf

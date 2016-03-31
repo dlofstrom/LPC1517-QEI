@@ -1,0 +1,1096 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+                              ./src/lpc1517_QEI.o (SystemCoreClockUpdate)
+C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+                              C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o) (Chip_Clock_EnablePeriphClock)
+C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+                              C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o) (Chip_SYSCTL_AssertPeriphReset)
+C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+                              ./src/sysinit.o (Chip_SystemInit)
+c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc15xx.o (__main)
+c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+                              C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o) (__aeabi_uldivmod)
+c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+                              c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_64.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+SystemCoreClock     0x4               C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/cr_startup_lpc15xx.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc15xx.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc15xx.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc15xx.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0x898 ./src/crp.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/lpc1517_QEI.o
+ .text          0x00000000        0x0 ./src/lpc1517_QEI.o
+ .data          0x00000000        0x0 ./src/lpc1517_QEI.o
+ .bss           0x00000000        0x0 ./src/lpc1517_QEI.o
+ .debug_macro   0x00000000      0x898 ./src/lpc1517_QEI.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .text          0x00000000        0x0 ./src/sysinit.o
+ .data          0x00000000        0x0 ./src/sysinit.o
+ .bss           0x00000000        0x0 ./src/sysinit.o
+ .debug_macro   0x00000000      0x898 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x12d ./src/sysinit.o
+ .debug_macro   0x00000000      0x5b2 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000       0x7b ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000       0x2d ./src/sysinit.o
+ .debug_macro   0x00000000       0x3a ./src/sysinit.o
+ .debug_macro   0x00000000       0x2d ./src/sysinit.o
+ .debug_macro   0x00000000      0xa7d ./src/sysinit.o
+ .debug_macro   0x00000000      0x1b4 ./src/sysinit.o
+ .debug_macro   0x00000000       0xca ./src/sysinit.o
+ .debug_macro   0x00000000       0x18 ./src/sysinit.o
+ .debug_macro   0x00000000       0xb2 ./src/sysinit.o
+ .debug_macro   0x00000000       0x70 ./src/sysinit.o
+ .debug_macro   0x00000000       0x46 ./src/sysinit.o
+ .debug_macro   0x00000000       0xd0 ./src/sysinit.o
+ .debug_macro   0x00000000       0x40 ./src/sysinit.o
+ .debug_macro   0x00000000      0x233 ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000       0x88 ./src/sysinit.o
+ .debug_macro   0x00000000       0x34 ./src/sysinit.o
+ .debug_macro   0x00000000       0x6a ./src/sysinit.o
+ .debug_macro   0x00000000       0x40 ./src/sysinit.o
+ .debug_macro   0x00000000       0x1c ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000      0x10c ./src/sysinit.o
+ .debug_macro   0x00000000      0x2a9 ./src/sysinit.o
+ .debug_macro   0x00000000       0x76 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000      0x152 ./src/sysinit.o
+ .debug_macro   0x00000000       0x82 ./src/sysinit.o
+ .debug_macro   0x00000000       0xe6 ./src/sysinit.o
+ .debug_macro   0x00000000       0x3a ./src/sysinit.o
+ .debug_macro   0x00000000       0x34 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000       0x76 ./src/sysinit.o
+ .debug_macro   0x00000000       0x58 ./src/sysinit.o
+ .debug_macro   0x00000000      0x2ca ./src/sysinit.o
+ .debug_macro   0x00000000      0x22b ./src/sysinit.o
+ .debug_macro   0x00000000       0x2e ./src/sysinit.o
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .text          0x00000000        0x0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .data          0x00000000        0x0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .bss           0x00000000        0x0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .text.Chip_SYSCTL_PeriphReset
+                0x00000000       0x24 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .text.Chip_Clock_SetUSBClockSource
+                0x00000000       0x2c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .text.Chip_Clock_SetUSBPLLSource
+                0x00000000       0x20 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .text.Chip_Clock_SetupUSBPLL
+                0x00000000       0x34 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .text.Chip_Clock_IsUSBPLLLocked
+                0x00000000       0x24 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .text.Chip_USB_Init
+                0x00000000       0x4c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000      0xa7d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000      0x1b4 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0xca C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0xb2 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x70 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x46 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000      0x233 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x6a C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000      0x10c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000      0x2a9 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x76 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000      0x152 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0xe6 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x76 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000      0x2ca C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000      0x22b C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text          0x00000000        0x0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .data          0x00000000        0x0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .bss           0x00000000        0x0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetADCASYNCSource
+                0x00000000       0x18 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetSysTickClockDiv
+                0x00000000       0x18 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_SetUARTFRGDivider
+                0x00000000       0x20 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetUARTFRGDivider
+                0x00000000       0x18 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetUSBPLLInClockRate
+                0x00000000       0x1c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetUSBPLLOutClockRate
+                0x00000000       0x24 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetSCTPLLInClockRate
+                0x00000000       0x1c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetSCTPLLOutClockRate
+                0x00000000       0x24 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetMainClockSource
+                0x00000000       0x30 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetADCASYNCRate
+                0x00000000       0x58 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_SetCLKOUTSource
+                0x00000000       0x48 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_EnablePeriphClock
+                0x00000000       0x54 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x58 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetSysTickClockRate
+                0x00000000       0x30 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetUARTBaseClockRate
+                0x00000000       0x88 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_SetUARTBaseClockRate
+                0x00000000       0xa0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_SetPLLBypass
+                0x00000000       0x48 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000      0x886 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000      0xa7d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000      0x1b4 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0xca C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0xb2 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x70 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x46 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000      0x233 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x6a C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000      0x10c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000      0x2a9 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x76 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000      0x152 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0xe6 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x76 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000      0x2ca C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000      0x22b C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .text          0x00000000        0x0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .data          0x00000000        0x0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .bss           0x00000000        0x0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .text.Chip_SYSCTL_GetRawFreqMeasCapval
+                0x00000000       0x1c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .text.Chip_SYSCTL_GetCompFreqMeas
+                0x00000000       0x5c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .text.Chip_SYSCTL_AssertPeriphReset
+                0x00000000       0x48 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .text.Chip_SYSCTL_DeassertPeriphReset
+                0x00000000       0x4c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .text.Chip_SYSCTL_SetWakeup
+                0x00000000       0x28 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000      0x886 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000      0xa7d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000      0x1b4 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0xca C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0xb2 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x70 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x46 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000      0x233 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x6a C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000      0x10c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000      0x2a9 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x76 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000      0x152 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0xe6 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x76 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000      0x2ca C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000      0x22b C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .group         0x00000000        0x8 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .text          0x00000000        0x0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .data          0x00000000        0x0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .bss           0x00000000        0x0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .text.Chip_SetupXtalClocking
+                0x00000000       0x6c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000      0x886 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000      0xa7d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000      0x1b4 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0xca C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0xb2 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x70 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x46 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000      0x233 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x6a C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000      0x10c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000      0x2a9 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x76 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000      0x152 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0xe6 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x76 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000      0x2ca C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000      0x22b C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_ldivmod
+                0x00000000       0x26 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_uldivmod
+                0x00000000      0x174 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .ARM.attributes
+                0x00000000       0x21 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+ .text.__aeabi_division_idiv0
+                0x00000000        0x2 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x00000000       0x21 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash64         0x00000000         0x00010000         xr
+Ram0_4           0x02000000         0x00001000         xrw
+Ram1_4           0x02001000         0x00001000         xrw
+Ram2_4           0x02002000         0x00001000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc15xx.o
+LOAD ./src/crp.o
+LOAD ./src/lpc1517_QEI.o
+LOAD ./src/sysinit.o
+LOAD C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a
+LOAD C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libcr_eabihelpers.a
+END GROUP
+                0x00000000                __base_MFlash64 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00010000                __top_MFlash64 = 0x10000
+                0x00010000                __top_Flash = 0x10000
+                0x02000000                __base_Ram0_4 = 0x2000000
+                0x02000000                __base_RAM = 0x2000000
+                0x02001000                __top_Ram0_4 = 0x2001000
+                0x02001000                __top_RAM = 0x2001000
+                0x02001000                __base_Ram1_4 = 0x2001000
+                0x02001000                __base_RAM2 = 0x2001000
+                0x02002000                __top_Ram1_4 = 0x2002000
+                0x02002000                __top_RAM2 = 0x2002000
+                0x02002000                __base_Ram2_4 = 0x2002000
+                0x02002000                __base_RAM3 = 0x2002000
+                0x02003000                __top_Ram2_4 = 0x2003000
+                0x02003000                __top_RAM3 = 0x2003000
+
+.text           0x00000000      0x77c
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xfc ./src/cr_startup_lpc15xx.o
+                0x00000000                g_pfnVectors
+                0x000000fc                . = ALIGN (0x4)
+                0x000000fc                __section_table_start = .
+                0x000000fc                __data_section_table = .
+                0x000000fc        0x4 LONG 0x77c LOADADDR (.data)
+                0x00000100        0x4 LONG 0x2000000 ADDR (.data)
+                0x00000104        0x4 LONG 0x0 SIZEOF (.data)
+                0x00000108        0x4 LONG 0x77c LOADADDR (.data_RAM2)
+                0x0000010c        0x4 LONG 0x2001000 ADDR (.data_RAM2)
+                0x00000110        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x00000114        0x4 LONG 0x77c LOADADDR (.data_RAM3)
+                0x00000118        0x4 LONG 0x2002000 ADDR (.data_RAM3)
+                0x0000011c        0x4 LONG 0x0 SIZEOF (.data_RAM3)
+                0x00000120                __data_section_table_end = .
+                0x00000120                __bss_section_table = .
+                0x00000120        0x4 LONG 0x2000000 ADDR (.bss)
+                0x00000124        0x4 LONG 0x8 SIZEOF (.bss)
+                0x00000128        0x4 LONG 0x2001000 ADDR (.bss_RAM2)
+                0x0000012c        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x00000130        0x4 LONG 0x2002000 ADDR (.bss_RAM3)
+                0x00000134        0x4 LONG 0x0 SIZEOF (.bss_RAM3)
+                0x00000138                __bss_section_table_end = .
+                0x00000138                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x00000138      0x154 ./src/cr_startup_lpc15xx.o
+                0x00000138                data_init
+                0x0000017c                bss_init
+                0x000001b4                ResetISR
+                0x0000023c                NMI_Handler
+                0x00000244                HardFault_Handler
+                0x0000024c                MemManage_Handler
+                0x00000254                BusFault_Handler
+                0x0000025c                UsageFault_Handler
+                0x00000264                SVC_Handler
+                0x0000026c                DebugMon_Handler
+                0x00000274                PendSV_Handler
+                0x0000027c                SysTick_Handler
+                0x00000284                UART1_IRQHandler
+                0x00000284                RTC_WAKE_IRQHandler
+                0x00000284                UART0_IRQHandler
+                0x00000284                ADC0_OVR_IRQHandler
+                0x00000284                MRT_IRQHandler
+                0x00000284                SPI1_IRQHandler
+                0x00000284                PIN_INT6_IRQHandler
+                0x00000284                IntDefaultHandler
+                0x00000284                PIN_INT4_IRQHandler
+                0x00000284                CAN_IRQHandler
+                0x00000284                RTC_ALARM_IRQHandler
+                0x00000284                ADC1B_IRQHandler
+                0x00000284                ADC1_THCMP_IRQHandler
+                0x00000284                I2C0_IRQHandler
+                0x00000284                RIT_IRQHandler
+                0x00000284                UART2_IRQHandler
+                0x00000284                PIN_INT5_IRQHandler
+                0x00000284                SCT1_IRQHandler
+                0x00000284                PIN_INT2_IRQHandler
+                0x00000284                USB_FIQHandler
+                0x00000284                SCT3_IRQHandler
+                0x00000284                PIN_INT7_IRQHandler
+                0x00000284                PIN_INT1_IRQHandler
+                0x00000284                USB_IRQHandler
+                0x00000284                BOD_IRQHandler
+                0x00000284                ADC0B_IRQHandler
+                0x00000284                ACMP0_IRQHandler
+                0x00000284                SCT2_IRQHandler
+                0x00000284                WDT_IRQHandler
+                0x00000284                ADC1_OVR_IRQHandler
+                0x00000284                PIN_INT0_IRQHandler
+                0x00000284                QEI_IRQHandler
+                0x00000284                ACMP3_IRQHandler
+                0x00000284                GINT0_IRQHandler
+                0x00000284                DAC_IRQHandler
+                0x00000284                SPI0_IRQHandler
+                0x00000284                EEPROM_IRQHandler
+                0x00000284                ACMP2_IRQHandler
+                0x00000284                USBWakeup_IRQHandler
+                0x00000284                ADC1A_IRQHandler
+                0x00000284                DMA_IRQHandler
+                0x00000284                PIN_INT3_IRQHandler
+                0x00000284                ACMP1_IRQHandler
+                0x00000284                SCT0_IRQHandler
+                0x00000284                ADC0A_IRQHandler
+                0x00000284                FMC_IRQHandler
+                0x00000284                GINT1_IRQHandler
+                0x00000284                ADC0_THCMP_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x0000028c       0x70 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.main     0x00000300       0x18 ./src/lpc1517_QEI.o
+                0x00000300                main
+ .text.SystemInit
+                0x00000318        0xc ./src/sysinit.o
+                0x00000318                SystemInit
+ .text.SystemCoreClockUpdate
+                0x00000324       0x18 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+                0x00000324                SystemCoreClockUpdate
+ .text.Chip_Clock_SetMain_A_ClockSource
+                0x0000033c       0x20 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetMain_A_ClockSource
+                0x0000035c       0x18 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_SetMain_B_ClockSource
+                0x00000374       0x20 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetMain_B_ClockSource
+                0x00000394       0x18 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetMainOscRate
+                0x000003ac       0x14 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetIntOscRate
+                0x000003c0       0x14 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetRTCOscRate
+                0x000003d4       0x14 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetWDTOSCRate
+                0x000003e8       0x14 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetPLLFreq
+                0x000003fc       0x28 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetPLLInClockRate
+                0x00000424       0x38 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .text.Chip_Clock_GetSystemPLLInClockRate
+                0x0000045c       0x1c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+                0x0000045c                Chip_Clock_GetSystemPLLInClockRate
+ .text.Chip_Clock_GetSystemPLLOutClockRate
+                0x00000478       0x24 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+                0x00000478                Chip_Clock_GetSystemPLLOutClockRate
+ .text.Chip_Clock_GetMain_A_ClockRate
+                0x0000049c       0x44 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+                0x0000049c                Chip_Clock_GetMain_A_ClockRate
+ .text.Chip_Clock_GetMain_B_ClockRate
+                0x000004e0       0x58 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+                0x000004e0                Chip_Clock_GetMain_B_ClockRate
+ .text.Chip_Clock_SetMainClockSource
+                0x00000538       0x3c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+                0x00000538                Chip_Clock_SetMainClockSource
+ .text.Chip_Clock_GetMainClockRate
+                0x00000574       0x28 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+                0x00000574                Chip_Clock_GetMainClockRate
+ .text.Chip_Clock_GetSystemClockRate
+                0x0000059c       0x1c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+                0x0000059c                Chip_Clock_GetSystemClockRate
+ .text.Chip_SYSCTL_PowerDown
+                0x000005b8       0x40 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+                0x000005b8                Chip_SYSCTL_PowerDown
+ .text.Chip_SYSCTL_PowerUp
+                0x000005f8       0x40 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+                0x000005f8                Chip_SYSCTL_PowerUp
+ .text.Chip_FMC_SetFLASHAccess
+                0x00000638       0x38 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .text.Chip_Clock_SetSystemPLLSource
+                0x00000670       0x20 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .text.Chip_Clock_SetupSystemPLL
+                0x00000690       0x34 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .text.Chip_Clock_IsSystemPLLLocked
+                0x000006c4       0x24 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .text.Chip_Clock_SetSysClockDiv
+                0x000006e8       0x20 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .text.Chip_SetupIrcClocking
+                0x00000708       0x5c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+                0x00000708                Chip_SetupIrcClocking
+ .text.Chip_SystemInit
+                0x00000764        0xc C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+                0x00000764                Chip_SystemInit
+ .text.__weak_main
+                0x00000770        0x4 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                0x00000770                __weak_main
+                0x00000770                __main
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.OscRateIn
+                0x00000774        0x4 ./src/sysinit.o
+                0x00000774                OscRateIn
+ .rodata.RTCOscRateIn
+                0x00000778        0x4 ./src/sysinit.o
+                0x00000778                RTCOscRateIn
+                0x0000077c                . = ALIGN (0x4)
+
+.glue_7         0x0000077c        0x0
+ .glue_7        0x0000077c        0x0 linker stubs
+
+.glue_7t        0x0000077c        0x0
+ .glue_7t       0x0000077c        0x0 linker stubs
+
+.vfp11_veneer   0x0000077c        0x0
+ .vfp11_veneer  0x0000077c        0x0 linker stubs
+
+.v4_bx          0x0000077c        0x0
+ .v4_bx         0x0000077c        0x0 linker stubs
+
+.iplt           0x0000077c        0x0
+ .iplt          0x0000077c        0x0 ./src/cr_startup_lpc15xx.o
+
+.rel.dyn        0x0000077c        0x0
+ .rel.iplt      0x0000077c        0x0 ./src/cr_startup_lpc15xx.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000077c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000077c                __exidx_end = .
+                0x0000077c                _etext = .
+
+.data_RAM2      0x02001000        0x0 load address 0x0000077c
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$Ram1_4)
+ *(.data.$RAM2*)
+ *(.data.$Ram1_4*)
+                0x02001000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM2, .)
+
+.data_RAM3      0x02002000        0x0 load address 0x0000077c
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM3, .)
+ *(.ramfunc.$RAM3)
+ *(.ramfunc.$Ram2_4)
+ *(.data.$RAM3*)
+ *(.data.$Ram2_4*)
+                0x02002000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM3, .)
+
+.uninit_RESERVED
+                0x02000000        0x0
+ *(.bss.$RESERVED*)
+                0x02000000                . = ALIGN (0x4)
+                0x02000000                _end_uninit_RESERVED = .
+
+.data           0x02000000        0x0 load address 0x0000077c
+ FILL mask 0xff
+                0x02000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+                0x02000000                . = ALIGN (0x4)
+                0x02000000                _edata = .
+
+.igot.plt       0x02000000        0x0 load address 0x0000077c
+ .igot.plt      0x02000000        0x0 ./src/cr_startup_lpc15xx.o
+
+.bss_RAM2       0x02001000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$Ram1_4*)
+                0x02001000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM2, .)
+
+.bss_RAM3       0x02002000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM3, .)
+ *(.bss.$RAM3*)
+ *(.bss.$Ram2_4*)
+                0x02002000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM3, .)
+
+.bss            0x02000000        0x8
+                0x02000000                _bss = .
+ *(.bss*)
+ .bss.i.7943    0x02000000        0x4 ./src/lpc1517_QEI.o
+ *(COMMON)
+ COMMON         0x02000004        0x4 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+                0x02000004                SystemCoreClock
+                0x02000008                . = ALIGN (0x4)
+                0x02000008                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit_RAM2    0x02001000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$Ram1_4*)
+                0x02001000                . = ALIGN (0x4)
+
+.noinit_RAM3    0x02002000        0x0
+ *(.noinit.$RAM3*)
+ *(.noinit.$Ram2_4*)
+                0x02002000                . = ALIGN (0x4)
+
+.noinit         0x02000008        0x0
+                0x02000008                _noinit = .
+ *(.noinit*)
+                0x02000008                . = ALIGN (0x4)
+                0x02000008                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x02001000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_Ram0_4 - 0x0))
+                0xfdffe2ca                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+OUTPUT(lpc1517_QEI.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x2a8b
+ .debug_info    0x00000000      0x274 ./src/cr_startup_lpc15xx.o
+ .debug_info    0x00000274       0x3f ./src/crp.o
+ .debug_info    0x000002b3       0xee ./src/lpc1517_QEI.o
+ .debug_info    0x000003a1      0x1db ./src/sysinit.o
+ .debug_info    0x0000057c      0x97d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_info    0x00000ef9      0xd2e C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_info    0x00001c27      0x73c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_info    0x00002363      0x728 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+
+.debug_abbrev   0x00000000      0x941
+ .debug_abbrev  0x00000000       0xed ./src/cr_startup_lpc15xx.o
+ .debug_abbrev  0x000000ed       0x36 ./src/crp.o
+ .debug_abbrev  0x00000123       0x95 ./src/lpc1517_QEI.o
+ .debug_abbrev  0x000001b8       0x9a ./src/sysinit.o
+ .debug_abbrev  0x00000252      0x1b3 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_abbrev  0x00000405      0x285 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_abbrev  0x0000068a      0x12b C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_abbrev  0x000007b5      0x18c C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+
+.debug_aranges  0x00000000      0x2f8
+ .debug_aranges
+                0x00000000       0x80 ./src/cr_startup_lpc15xx.o
+ .debug_aranges
+                0x00000080       0x18 ./src/crp.o
+ .debug_aranges
+                0x00000098       0x20 ./src/lpc1517_QEI.o
+ .debug_aranges
+                0x000000b8       0x20 ./src/sysinit.o
+ .debug_aranges
+                0x000000d8       0x50 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_aranges
+                0x00000128      0x128 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_aranges
+                0x00000250       0x50 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_aranges
+                0x000002a0       0x58 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+
+.debug_ranges   0x00000000      0x270
+ .debug_ranges  0x00000000       0x70 ./src/cr_startup_lpc15xx.o
+ .debug_ranges  0x00000070       0x10 ./src/lpc1517_QEI.o
+ .debug_ranges  0x00000080       0x10 ./src/sysinit.o
+ .debug_ranges  0x00000090       0x40 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_ranges  0x000000d0      0x118 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_ranges  0x000001e8       0x40 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_ranges  0x00000228       0x48 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+
+.debug_macro    0x00000000     0x489a
+ .debug_macro   0x00000000       0x23 ./src/cr_startup_lpc15xx.o
+ .debug_macro   0x00000023      0x898 ./src/cr_startup_lpc15xx.o
+ .debug_macro   0x000008bb       0x1a ./src/crp.o
+ .debug_macro   0x000008d5       0x34 ./src/crp.o
+ .debug_macro   0x00000909      0x242 ./src/lpc1517_QEI.o
+ .debug_macro   0x00000b4b       0x10 ./src/lpc1517_QEI.o
+ .debug_macro   0x00000b5b      0x12d ./src/lpc1517_QEI.o
+ .debug_macro   0x00000c88      0x5b2 ./src/lpc1517_QEI.o
+ .debug_macro   0x0000123a       0x22 ./src/lpc1517_QEI.o
+ .debug_macro   0x0000125c       0x7b ./src/lpc1517_QEI.o
+ .debug_macro   0x000012d7       0x10 ./src/lpc1517_QEI.o
+ .debug_macro   0x000012e7       0x2d ./src/lpc1517_QEI.o
+ .debug_macro   0x00001314       0x3a ./src/lpc1517_QEI.o
+ .debug_macro   0x0000134e       0x2d ./src/lpc1517_QEI.o
+ .debug_macro   0x0000137b      0xa7d ./src/lpc1517_QEI.o
+ .debug_macro   0x00001df8      0x1b4 ./src/lpc1517_QEI.o
+ .debug_macro   0x00001fac       0xca ./src/lpc1517_QEI.o
+ .debug_macro   0x00002076       0x18 ./src/lpc1517_QEI.o
+ .debug_macro   0x0000208e       0xb2 ./src/lpc1517_QEI.o
+ .debug_macro   0x00002140       0x70 ./src/lpc1517_QEI.o
+ .debug_macro   0x000021b0       0x46 ./src/lpc1517_QEI.o
+ .debug_macro   0x000021f6       0xd0 ./src/lpc1517_QEI.o
+ .debug_macro   0x000022c6       0x40 ./src/lpc1517_QEI.o
+ .debug_macro   0x00002306      0x233 ./src/lpc1517_QEI.o
+ .debug_macro   0x00002539       0x16 ./src/lpc1517_QEI.o
+ .debug_macro   0x0000254f       0x88 ./src/lpc1517_QEI.o
+ .debug_macro   0x000025d7       0x34 ./src/lpc1517_QEI.o
+ .debug_macro   0x0000260b       0x6a ./src/lpc1517_QEI.o
+ .debug_macro   0x00002675       0x40 ./src/lpc1517_QEI.o
+ .debug_macro   0x000026b5       0x1c ./src/lpc1517_QEI.o
+ .debug_macro   0x000026d1       0x16 ./src/lpc1517_QEI.o
+ .debug_macro   0x000026e7      0x10c ./src/lpc1517_QEI.o
+ .debug_macro   0x000027f3      0x2a9 ./src/lpc1517_QEI.o
+ .debug_macro   0x00002a9c       0x76 ./src/lpc1517_QEI.o
+ .debug_macro   0x00002b12       0x22 ./src/lpc1517_QEI.o
+ .debug_macro   0x00002b34      0x152 ./src/lpc1517_QEI.o
+ .debug_macro   0x00002c86       0x82 ./src/lpc1517_QEI.o
+ .debug_macro   0x00002d08       0xe6 ./src/lpc1517_QEI.o
+ .debug_macro   0x00002dee       0x3a ./src/lpc1517_QEI.o
+ .debug_macro   0x00002e28       0x34 ./src/lpc1517_QEI.o
+ .debug_macro   0x00002e5c       0x10 ./src/lpc1517_QEI.o
+ .debug_macro   0x00002e6c       0x76 ./src/lpc1517_QEI.o
+ .debug_macro   0x00002ee2       0x58 ./src/lpc1517_QEI.o
+ .debug_macro   0x00002f3a      0x2ca ./src/lpc1517_QEI.o
+ .debug_macro   0x00003204      0x22b ./src/lpc1517_QEI.o
+ .debug_macro   0x0000342f       0x2e ./src/lpc1517_QEI.o
+ .debug_macro   0x0000345d       0x82 ./src/lpc1517_QEI.o
+ .debug_macro   0x000034df      0x239 ./src/sysinit.o
+ .debug_macro   0x00003718      0x239 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x00003951      0x886 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_macro   0x000041d7      0x239 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_macro   0x00004410      0x251 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_macro   0x00004661      0x239 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+
+.debug_line     0x00000000     0x1f93
+ .debug_line    0x00000000       0xd6 ./src/cr_startup_lpc15xx.o
+ .debug_line    0x000000d6       0x78 ./src/crp.o
+ .debug_line    0x0000014e      0x497 ./src/lpc1517_QEI.o
+ .debug_line    0x000005e5      0x433 ./src/sysinit.o
+ .debug_line    0x00000a18      0x4bc C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_line    0x00000ed4      0x710 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_line    0x000015e4      0x4be C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_line    0x00001aa2      0x4f1 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+
+.debug_str      0x00000000    0x10fd2
+ .debug_str     0x00000000     0x26fa ./src/cr_startup_lpc15xx.o
+                               0x270d (size before relaxing)
+ .debug_str     0x000026fa       0xe9 ./src/crp.o
+                               0x25fe (size before relaxing)
+ .debug_str     0x000027e3     0xd0f3 ./src/lpc1517_QEI.o
+                               0xf6a2 (size before relaxing)
+ .debug_str     0x0000f8d6      0x1f4 ./src/sysinit.o
+                               0xf43e (size before relaxing)
+ .debug_str     0x0000faca      0x9a9 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+                               0xfcb6 (size before relaxing)
+ .debug_str     0x00010473      0x89d C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+                              0x100b6 (size before relaxing)
+ .debug_str     0x00010d10      0x183 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+                               0xf76d (size before relaxing)
+ .debug_str     0x00010e93      0x13f C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+                               0xf75c (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e ./src/cr_startup_lpc15xx.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./src/crp.o
+ .comment       0x0000006e       0x6f ./src/lpc1517_QEI.o
+ .comment       0x0000006e       0x6f ./src/sysinit.o
+ .comment       0x0000006e       0x6f C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .comment       0x0000006e       0x6f C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .comment       0x0000006e       0x6f C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .comment       0x0000006e       0x6f C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .comment       0x0000006e       0x6f c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 ./src/cr_startup_lpc15xx.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/crp.o
+ .ARM.attributes
+                0x00000066       0x33 ./src/lpc1517_QEI.o
+ .ARM.attributes
+                0x00000099       0x33 ./src/sysinit.o
+ .ARM.attributes
+                0x000000cc       0x33 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .ARM.attributes
+                0x000000ff       0x33 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .ARM.attributes
+                0x00000132       0x33 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .ARM.attributes
+                0x00000165       0x33 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
+ .ARM.attributes
+                0x00000198       0x33 c:/nxp/lpcxpresso_8.1.2_603/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+
+.debug_frame    0x00000000      0x9d4
+ .debug_frame   0x00000000      0x170 ./src/cr_startup_lpc15xx.o
+ .debug_frame   0x00000170       0x2c ./src/lpc1517_QEI.o
+ .debug_frame   0x0000019c       0x2c ./src/sysinit.o
+ .debug_frame   0x000001c8      0x104 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(chip_15xx.o)
+ .debug_frame   0x000002cc      0x4b0 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(clock_15xx.o)
+ .debug_frame   0x0000077c      0x124 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysctl_15xx.o)
+ .debug_frame   0x000008a0      0x134 C:\Users\Daniel\Desktop\lpc1517\LPC1517-QEI\code\workspace\lpc_chip_15xx\Debug\liblpc_chip_15xx.a(sysinit_15xx.o)
