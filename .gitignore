@@ -9,3 +9,4 @@ Debug/src/
 *.b#?
 *.l#?
 eagle.epf
+*.lck
